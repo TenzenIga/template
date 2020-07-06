@@ -1,0 +1,1 @@
+import style from "./static/_scss/main.scss";
